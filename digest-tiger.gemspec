@@ -26,6 +26,6 @@ The size of a Tiger hash value is 192 bits.
     "README.rdoc"
   ]
 
-  spec.add_development_dependency "bundler", "~> 1.3"
+  spec.add_development_dependency "bundler", ">= 2.2.10"
   spec.add_development_dependency "rake"
 end
